@@ -1,0 +1,27 @@
+{
+  "name": "autodeploy",
+  "version": "1.0.0",
+  "description": "自动化部署",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannonliang/autoDeploy.git"
+  },
+  "keywords": [],
+  "author": "shannonliang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shannonliang/autoDeploy/issues"
+  },
+  "homepage": "https://github.com/shannonliang/autoDeploy#readme",
+  "dependencies": {
+    "bl": "^4.0.2",
+    "chalk": "^3.0.0",
+    "crypto": "^1.0.1",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {}
+}

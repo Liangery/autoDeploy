@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/shannonliang/autoDeploy#readme",
   "dependencies": {
-    "bl": "^4.0.2",
+    "bl": "^4.0.3",
     "chalk": "^3.0.0",
     "crypto": "^1.0.1",
     "shelljs": "^0.8.3"
